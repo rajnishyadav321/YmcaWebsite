@@ -38,14 +38,14 @@
 .cbp-hrmenu > ul > li.cbp-hropen a,
 .cbp-hrmenu > ul > li.cbp-hropen > a:hover {
 	color: #fff;
-	background: #47a3da;
+	background: #2c3e52;
 }
 
 /* sub-menu */
 .cbp-hrmenu .cbp-hrsub {
 	display: none;
 	position: absolute;
-	background: #47a3da;
+	background:#2c3e52;
 	width: 100%;
 	left: 0;
 }

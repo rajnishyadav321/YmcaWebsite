@@ -85,7 +85,7 @@ a:hover {
 	position: relative;
 	width: 2.5em;
 	height: 2.5em;
-	background: #fff;
+	background: #2c3e52;
 	border-radius: 50%;
 	color: transparent;
 	margin: 0 0.1em;
@@ -110,7 +110,7 @@ a:hover {
 }
 
 .container > header nav a:hover {
-	background: #47a3da;
+	background:green;
 }
 
 .icon-drop:before, 
